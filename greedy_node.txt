@@ -1,0 +1,7 @@
+Best length: 12690.0
+Worst length: 20259.0
+Average length: 16092.28
+Best time: 1.3483896255493164
+Worst time: 2.836857318878174
+Average time: 2.0679031658172606
+

@@ -1,0 +1,4 @@
+Best length: 58192.0
+Worst length: 108183.0
+Average length: 83781.32992144045
+
